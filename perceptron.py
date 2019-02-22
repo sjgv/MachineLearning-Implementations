@@ -1,5 +1,5 @@
 '''
-Have faith Chavito, and you'll conquer this too
+Written By Salvador Gutierrez
 '''
 import copy
 import random
